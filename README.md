@@ -4,6 +4,8 @@ Project Overview
 
 The **Infectious Disease Awareness Hub** is a simple web-based platform designed to educate the public about common infectious diseases, their causes, symptoms, and prevention methods.
 
+PROBLEM STATEMENT
+
 The goal of this project is to promote awareness, encourage healthy practices, and help reduce the spread of infectious diseases through accessible and easy-to-understand information.
 
  OBJECTIVES
