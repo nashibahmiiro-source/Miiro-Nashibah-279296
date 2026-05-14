@@ -28,6 +28,8 @@ The goal of this project is to promote awareness, encourage healthy practices, a
 * **HTML5** – Structure of the website
 * **CSS3** – Styling and layout
 * **JavaScript** – Interactivity (health tips feature)
+* **Github Pages** - Hosting
+* **Github** - Version control
 
  FUTURE IMPROVEMENTS
 
