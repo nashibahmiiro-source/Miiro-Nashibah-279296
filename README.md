@@ -34,7 +34,6 @@ The goal of this project is to promote awareness, encourage healthy practices, a
  FUTURE IMPROVEMENTS
 
 * Add detailed pages for each disease
-* Include images and infographics
 * Integrate real-time health data APIs
 * Add multilingual support for wider accessibility
 * Improve accessibility for users with disabilities
