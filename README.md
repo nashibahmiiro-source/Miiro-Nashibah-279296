@@ -46,6 +46,14 @@ Contributions are welcome! You can improve this project by:
 * Enhancing the design
 * Improving interactivity
 
+  TARGET AUDIENCE
+
+*General public
+*Students
+*Teachers
+*Health workers
+*Caregivers
+
  WAIVER!!!
 
 This website is for **educational purposes only** and should not replace professional medical advice. Always consult a qualified healthcare provider for diagnosis and treatment.
